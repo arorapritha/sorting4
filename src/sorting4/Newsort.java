@@ -27,6 +27,7 @@ public static void bubbleSort(int [] sort_arr, int len){
         for(int i = 0; i<len; ++i){
             System.out.print(array[i] + " ");
         }
+        System.out.println();
     }
 }
  
